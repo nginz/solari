@@ -6,6 +6,10 @@
   "scripts": {
     "build": "gulp build"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nginz/solari.git"
+  },
   "keywords": [
     "solari",
     "canvas"
